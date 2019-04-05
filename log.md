@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 4, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started with the lessons a freeCodeCamp. I finished the HTML and some of the CSS lessons
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Even though it was basic stuff, it was a nice refresh, plus I learned a few things about CSS.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://www.freecodecamp.org/fcc8663376d-c5de-4313-8cc0-2f3eef0e6ce2
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: April 5, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued the CSS lessons, and finished 3/5 Responsive Design projects
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really didn't like having to use "raw" CSS to stlyle everything from the ground up. I didn't enjoy the challenges and I did what I had to do to pass the criteria. I should also refresh my knowledge on Bootstrap and watch the Bootstrap 4 Course on the Web developer Bootcamp. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://www.freecodecamp.org/fcc8663376d-c5de-4313-8cc0-2f3eef0e6ce2
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
