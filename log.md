@@ -8,7 +8,7 @@
 
 **Link to work:** https://www.freecodecamp.org/fcc8663376d-c5de-4313-8cc0-2f3eef0e6ce2
 
-### Day 1: April 5, 2019 
+### Day 2: April 5, 2019 
 
 **Today's Progress**: Continued the CSS lessons, and finished 3/5 Responsive Design projects
 
